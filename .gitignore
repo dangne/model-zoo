@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Personal files
+NOTE.md
+freeze.sh
+
+
