@@ -28,8 +28,8 @@ pip install -r requirements.txt
 
 | Models               | Level 1 | Level 2 | Level 3 |
 | -------------------- | :-----: | :-----: | :-----: |
-| Linear Regression    |         |         |         |
-| Logistics Regression |         |         |         |
+| Linear Regression    |    ✓    |         |         |
+| Logistics Regression |    ✓    |         |         |
 | SVM                  |         |         |         |
 | Decision Tree        |         |         |         |
 | PCA                  |         |         |         |
