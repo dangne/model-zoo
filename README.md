@@ -30,11 +30,10 @@ pip install -r requirements.txt
 | -------------------- | :-----: | :-----: | :-----: |
 | Linear Regression    |    ✓    |         |         |
 | Logistics Regression |    ✓    |         |         |
-| SVM                  |         |         |         |
-| Decision Tree        |         |         |         |
-| PCA                  |         |         |         |
-| Naive Bayes          |         |         |         |
-| Random Forest        |         |         |         |
+| SVM                  |    ✓    |         |         |
+| Decision Tree        |    ✓    |         |         |
+| Naive Bayes          |    ✓    |         |         |
+| Random Forest        |    ✓    |         |         |
 | Deep NN              |    ✓    |         |         |
 | CNN                  |    ✓    |         |         |
 | RNN                  |         |         |         |
