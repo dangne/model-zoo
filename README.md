@@ -28,13 +28,12 @@ pip install -r requirements.txt
 
 | Models               | Level 1 | Level 2 | Level 3 |
 | -------------------- | :-----: | :-----: | :-----: |
-| Linear Regression    |         |         |         |
-| Logistics Regression |         |         |         |
-| SVM                  |         |         |         |
-| Decision Tree        |         |         |         |
-| PCA                  |         |         |         |
-| Naive Bayes          |         |         |         |
-| Random Forest        |         |         |         |
+| Linear Regression    |    ✓    |         |         |
+| Logistics Regression |    ✓    |         |         |
+| SVM                  |    ✓    |         |         |
+| Decision Tree        |    ✓    |         |         |
+| Naive Bayes          |    ✓    |         |         |
+| Random Forest        |    ✓    |         |         |
 | Deep NN              |    ✓    |         |         |
 | CNN                  |    ✓    |         |         |
 | RNN                  |         |         |         |
