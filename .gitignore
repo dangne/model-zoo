@@ -129,6 +129,5 @@ dmypy.json
 .pyre/
 
 # Personal files
-NOTE.md
-freeze.sh
-activate.sh
+docs/
+scripts/
