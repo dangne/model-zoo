@@ -7,8 +7,8 @@ def main():
     (x_train, y_train), (x_test, y_test) = fashion_mnist.load_data()
     
     # expand dimension for the 3rd channel
-    x_train = tf.expand_dims(x_train, 3)
-    x_test = tf.expand_dims(x_test, 3)
+    x_train = tf.expand_dims(x_train, -1)
+    x_test = tf.expand_dims(x_test, -1)
     
     model = Sequential([
         Input(shape=(x_train[0].shape)),
