@@ -26,25 +26,25 @@ pip install -r requirements.txt
 
 ## Models
 
-| Models               | Level 1 | Level 2 | Level 3 |
-| -------------------- | :-----: | :-----: | :-----: |
-| Linear Regression    |    ✓    |         |         |
-| Logistics Regression |    ✓    |         |         |
-| SVM                  |    ✓    |         |         |
-| Decision Tree        |    ✓    |         |         |
-| Naive Bayes          |    ✓    |         |         |
-| Random Forest        |    ✓    |         |         |
-| Deep NN              |    ✓    |         |         |
-| CNN                  |    ✓    |         |         |
-| RNN                  |         |         |         |
-| LSTM                 |         |         |         |
-| GRU                  |         |         |         |
-| BD-RNN               |         |         |         |
-| Attention            |         |         |         |
-| ...                  |         |         |         |
+| Models                | Level 1 | Level 2 | Level 3 |
+| --------------------- | :-----: | :-----: | :-----: |
+| Linear Regression     |    ✓    |         |         |
+| Logistics Regression  |    ✓    |         |         |
+| SVM                   |    ✓    |         |         |
+| Decision Tree         |    ✓    |         |         |
+| Naive Bayes           |    ✓    |         |         |
+| Random Forest         |    ✓    |         |         |
+| Deep NN               |    ✓    |         |         |
+| CNN                   |    ✓    |         |         |
+| RNN                   |         |         |         |
+| LSTM                  |         |         |         |
+| GRU                   |         |         |         |
+| BD-RNN                |         |         |         |
+| Attention             |         |         |         |
+| Transformer           |         |         |         |
 
 
 
-# License
+## License
 
 This project is licensed under the [MIT](https://github.com/dangne/model-zoo/blob/master/LICENSE) License.
