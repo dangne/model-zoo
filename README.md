@@ -26,22 +26,22 @@ pip install -r requirements.txt
 
 ## Models
 
-| Models                | Level 1 | Level 2 | Level 3 |
-| --------------------- | :-----: | :-----: | :-----: |
-| Linear Regression     |    ✓    |         |         |
-| Logistics Regression  |    ✓    |         |         |
-| SVM                   |    ✓    |         |         |
-| Decision Tree         |    ✓    |         |         |
-| Naive Bayes           |    ✓    |         |         |
-| Random Forest         |    ✓    |         |         |
-| Deep NN               |    ✓    |         |         |
-| CNN                   |    ✓    |         |         |
-| RNN                   |         |         |         |
-| LSTM                  |         |         |         |
-| GRU                   |         |         |         |
-| BD-RNN                |         |         |         |
-| Attention             |         |         |         |
-| Transformer           |         |         |         |
+| Models               | Level 1 | Level 2 | Level 3 |
+| -------------------- | :-----: | :-----: | :-----: |
+| Linear Regression    |    ✓    |         |         |
+| Logistics Regression |    ✓    |         |         |
+| SVM                  |    ✓    |         |         |
+| Decision Tree        |    ✓    |         |         |
+| Naive Bayes          |    ✓    |         |         |
+| Random Forest        |    ✓    |         |         |
+| Deep NN              |    ✓    |         |         |
+| CNN                  |    ✓    |         |         |
+| RNN                  |    ✓    |         |         |
+| LSTM                 |    ✓    |         |         |
+| GRU                  |    ✓    |         |         |
+| BD-RNN               |    ✓    |         |         |
+| Attention            |         |         |         |
+| Transformer          |         |         |         |
 
 
 
